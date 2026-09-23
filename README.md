@@ -21,5 +21,12 @@ A responsive To-Do List application built with React.js for managing daily tasks
 
 ### Install dependencies
 
-```bash
 npm install
+
+### Run the application
+
+npm start
+
+The application will run at:
+
+http://localhost:3000
